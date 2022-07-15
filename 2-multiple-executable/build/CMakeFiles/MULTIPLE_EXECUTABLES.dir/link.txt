@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/MULTIPLE_EXECUTABLES.dir/main.cpp.o CMakeFiles/MULTIPLE_EXECUTABLES.dir/another.cpp.o  -o MULTIPLE_EXECUTABLES 
