@@ -1,0 +1,3 @@
+/home/ndj320/Programs/c_cpp-workspace/cmake_tut/1-basic-cmake/build/CMakeFiles/rebuild_cache.dir
+/home/ndj320/Programs/c_cpp-workspace/cmake_tut/1-basic-cmake/build/CMakeFiles/edit_cache.dir
+/home/ndj320/Programs/c_cpp-workspace/cmake_tut/1-basic-cmake/build/CMakeFiles/BASCI_CMAKE.dir
