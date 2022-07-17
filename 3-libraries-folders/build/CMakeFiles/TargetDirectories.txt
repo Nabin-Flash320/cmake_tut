@@ -1,0 +1,6 @@
+/home/ndj320/Programs/c_cpp-workspace/3-libraries-folders/build/CMakeFiles/rebuild_cache.dir
+/home/ndj320/Programs/c_cpp-workspace/3-libraries-folders/build/CMakeFiles/edit_cache.dir
+/home/ndj320/Programs/c_cpp-workspace/3-libraries-folders/build/CMakeFiles/SUBDIRECTORIES.dir
+/home/ndj320/Programs/c_cpp-workspace/3-libraries-folders/build/Maths/CMakeFiles/rebuild_cache.dir
+/home/ndj320/Programs/c_cpp-workspace/3-libraries-folders/build/Maths/CMakeFiles/edit_cache.dir
+/home/ndj320/Programs/c_cpp-workspace/3-libraries-folders/build/Maths/CMakeFiles/maths.dir

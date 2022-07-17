@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/SUBDIRECTORIES.dir/main.cpp.o  -o SUBDIRECTORIES  Maths/libmaths.a 

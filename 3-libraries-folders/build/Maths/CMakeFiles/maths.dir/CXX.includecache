@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ndj320/Programs/c_cpp-workspace/3-libraries-folders/Maths/maths.cpp
+maths.h
+/home/ndj320/Programs/c_cpp-workspace/3-libraries-folders/Maths/maths.h
+
+/home/ndj320/Programs/c_cpp-workspace/3-libraries-folders/Maths/maths.h
+
